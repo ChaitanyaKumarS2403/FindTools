@@ -1,6 +1,8 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/270/270780.png" height="30"> Android
 [Official Apps](#official-applications)
+
 [MODs](#mods)
+
 [Go to PC](./PC.md)
 
 ## Official Applications

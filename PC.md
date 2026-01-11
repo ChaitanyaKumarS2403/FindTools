@@ -1,6 +1,8 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" height="30"> PC / Desktop
 [Web Applications](#web-applications)
+
 [EXE](#exe)
+
 [Go to Android](./Android.md)
 
 ## Web Applications
