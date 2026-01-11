@@ -3,7 +3,9 @@
 
 [EXE](#exe)
 
-[Go to Android](./Android.md)
+<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+</a>
 
 ## Web Applications
 |   Application |   Description |
@@ -19,7 +21,9 @@
 |   **[Air Console](https://www.airconsole.com/)** |   Cross-platform co-operative gaming using smartphones as controllers. |
 |   **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** |   A curated web dashboard for quick access to various AI tools and utilities. |
 
-[Go to Android](./Android.md)
+<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+</a>
 
 ## EXE
 |  Application  |  Description  |
@@ -31,4 +35,6 @@
 |  **[uTorrent](https://www.utorrent.com/desktop/#comparison-panels)** |  A lightweight BitTorrent client used to download large files via P2P. |
 |  **[Aloha Browser](https://alohabrowser.app/download.html)** |  A privacy-focused browser featuring a built-in VPN and ad-blocker. |
 
-[Go to Android](./Android.md)
+<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+</a>
