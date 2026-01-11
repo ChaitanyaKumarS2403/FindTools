@@ -1,9 +1,9 @@
-## Android
+## <img src="https://cdn-icons-png.flaticon.com/512/270/270780.png" height="30"> Android
 - [Official Apps](#official-applications)
 - [MODs](#mods)
 
-### Official Applications
-| Tool | Description |
+### <img src="https://cdn-icons-png.flaticon.com/512/9195/9195920.png" height="30"> Official Applications
+| Application | Description |
 | :--- | :--- |
 | **[RustDesk](https://rustdesk.com/)** | An Open Source Remote Desktop Application for remote control and support. |
 | **[Hey Melody](https://play.google.com/store/apps/details?id=com.heytap.headset)** | Firmware updates and device customization for OPPO, OnePlus, and Realme earbuds. |
@@ -29,8 +29,8 @@
 | **[BookMyShow](https://play.google.com/store/apps/details?id=com.bt.bms)** | A platform for booking tickets for movies, concerts, sports, and live events. |
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
 
-### MODs
-| Tool | Description |
+### <img src="https://cdn-icons-png.flaticon.com/512/10777/10777124.png" height="30"> MODs
+| Application | Description |
 | :--- | :--- |
 | **[Music Speed Changer](https://liteapks.com/music-speed-changer.html)** | A Music Player with features like real-time tempo and pitch adjustment. |
 | **[YouTube Revanced](https://www.mediafire.com/file/3fdutjk9iinudic/YT_ReVanced_v20.21.37_-_espacioapk.com.apk/file)** | A modded YouTube client with ad-blocking, background play, and SponsorBlock. |
