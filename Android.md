@@ -3,7 +3,7 @@
 
 [MODs](#mods)
 
-<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+<a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
 </a>
 
@@ -34,7 +34,7 @@
 | **[BookMyShow](https://play.google.com/store/apps/details?id=com.bt.bms)** | A platform for booking tickets for movies, concerts, sports, and live events. |
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
 
-<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+<a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
 </a>
 
@@ -51,6 +51,6 @@
 | **[Aloha Browser](https://liteapks.com/aloha-browser.html)** | A private browser with a built-in VPN, ad-blocker, and download manager. |
 | **[Subwoofer Bass](https://liteapks.com/subwoofer-bass.html)** | An audio enhancement app designed to boost low frequencies and bass quality. |
 
-<a href="https://github.com/ChaitanyaKumarS2403/FindTools/blob/main/README.md">
+<a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
 </a>
