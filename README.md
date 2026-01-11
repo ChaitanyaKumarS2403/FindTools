@@ -1,5 +1,8 @@
 # Find Tools
 
+* [**PC Applications**](./PC.md) — Editors, CLI tools, and compilers.
+* [**Android Applications**](./Android.md) — UI kits, icons, and color palettes.
+
 ## PC / Desktop
 |  Tool  |  Description  |
 |  :---  |  :---         |
