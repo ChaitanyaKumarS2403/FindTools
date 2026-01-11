@@ -2,7 +2,7 @@
 - [Official Apps](#official-applications)
 - [MODs](#mods)
 
-## <img src="https://cdn-icons-png.flaticon.com/512/9195/9195920.png" height="20"> Official Applications
+## Official Applications
 | Application | Description |
 | :--- | :--- |
 | **[RustDesk](https://rustdesk.com/)** | An Open Source Remote Desktop Application for remote control and support. |
@@ -29,7 +29,7 @@
 | **[BookMyShow](https://play.google.com/store/apps/details?id=com.bt.bms)** | A platform for booking tickets for movies, concerts, sports, and live events. |
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
 
-## <img src="https://cdn-icons-png.flaticon.com/512/10777/10777124.png" height="20"> MODs
+## MODs
 | Application | Description |
 | :--- | :--- |
 | **[Music Speed Changer](https://liteapks.com/music-speed-changer.html)** | A Music Player with features like real-time tempo and pitch adjustment. |
