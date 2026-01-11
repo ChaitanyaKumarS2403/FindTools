@@ -14,9 +14,80 @@
 | 	**[Exercism](https://exercism.org/)** 	|  	Practice and learn 70+ programming languages for free. |
 | 	**[HiPDF](https://www.hipdf.com/)** 	|  	Comprehensive online PDF editor and converter. |
 | 	**[Air Console](https://www.airconsole.com/)** 	|  	Cross-platform co-operative gaming using smartphones as controllers. |
-
+|	**[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
 
 ### EXE
 |  Application  |  Description  |
 |  :---  |  :---         |
 |  **[RustDesk](https://rustdesk.com/)**  |  An Open Source Remote Desktop Application.  |
+|	**[Notepad++](https://notepad-plus-plus.org/downloads/)**	|		|
+|	**[yt-dlp-toolkit](https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe)**	|		|
+|	**[LocalSend](https://localsend.org/download)**	|		|
+|	**[uTorrent](https://www.utorrent.com/desktop/#comparison-panels)**	|		|
+|	**[Aloha Browser](https://alohabrowser.app/download.html)**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
