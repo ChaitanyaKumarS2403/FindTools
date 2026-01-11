@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/881/881541.png" height="25"> Find Tools
+# <img src="https://cdn-icons-png.flaticon.com/512/7991/7991055.png" height="30"> Find Tools
 
 Welcome to my personal directory of essential software and digital tools. This collection is a handpicked selection of utilities designed to boost productivity, streamline workflows, and enhance your digital experience across both desktop and mobile environments.
 
