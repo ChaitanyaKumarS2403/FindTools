@@ -2,6 +2,6 @@
 
 |	Platform	|	URL for Applications	|
 |	:---	|	:---	|
-|	**PC**	|	(./PC.md)	|
-|	**Android**	|	(./Android.md)	|
+|	**PC**	|	[Check out applications](./PC.md)	|
+|	**Android**	|	[Check out applications](./Android.md)	|
 
