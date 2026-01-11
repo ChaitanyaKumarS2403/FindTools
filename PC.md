@@ -1,8 +1,8 @@
-## <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" height="30"> PC / Desktop
+## <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" height="20"> PC / Desktop
 - [Web Applications](#web-applications)
 - [EXE](#exe)
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="30"> Web Applications
+### <img src="https://cdn-icons-png.flaticon.com/512/1927/1927746.png" height="20"> Web Applications
 |   Application |   Description |
 |   :---    |   :---    |
 |   **[Napkin](https://www.napkin.ai/)** |   Automatically generate business visuals and diagrams from text. |
@@ -16,7 +16,7 @@
 |   **[Air Console](https://www.airconsole.com/)** |   Cross-platform co-operative gaming using smartphones as controllers. |
 |   **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** |   A curated web dashboard for quick access to various AI tools and utilities. |
 
-### <img src="https://cdn-icons-png.flaticon.com/512/5790/5790985.png" height="30"> EXE
+### <img src="https://cdn-icons-png.flaticon.com/512/5790/5790985.png" height="20"> EXE
 |  Application  |  Description  |
 |  :---  |  :---         |
 |  **[RustDesk](https://rustdesk.com/)** |  An Open Source Remote Desktop Application for secure remote control.  |
