@@ -2,7 +2,6 @@
 - [Official Apps](#official-applications)
 - [MODs](#mods)
 
-
 ### Official Applications
 |  Tool  |  Description  |
 |  :---  |  :---         |
