@@ -1,6 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" height="30"> PC / Desktop
-- [Web Applications](#web-applications)
-- [EXE](#exe)
+[Web Applications](#web-applications)
+[EXE](#exe)
+[Go to Android](./Android.md)
 
 ## Web Applications
 |   Application |   Description |
@@ -16,6 +17,8 @@
 |   **[Air Console](https://www.airconsole.com/)** |   Cross-platform co-operative gaming using smartphones as controllers. |
 |   **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** |   A curated web dashboard for quick access to various AI tools and utilities. |
 
+[Go to Android](./Android.md)
+
 ## EXE
 |  Application  |  Description  |
 |  :---  |  :---         |
@@ -25,3 +28,5 @@
 |  **[LocalSend](https://localsend.org/download)** |  An open-source tool for sharing files over a local network without internet. |
 |  **[uTorrent](https://www.utorrent.com/desktop/#comparison-panels)** |  A lightweight BitTorrent client used to download large files via P2P. |
 |  **[Aloha Browser](https://alohabrowser.app/download.html)** |  A privacy-focused browser featuring a built-in VPN and ad-blocker. |
+
+[Go to Android](./Android.md)
