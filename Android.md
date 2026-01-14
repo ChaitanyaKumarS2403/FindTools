@@ -33,6 +33,11 @@
 | **[BlinkIt](https://play.google.com/store/apps/details?id=com.grofers.customerapp)** | A quick-commerce app delivering groceries and daily needs in minutes. |
 | **[BookMyShow](https://play.google.com/store/apps/details?id=com.bt.bms)** | A platform for booking tickets for movies, concerts, sports, and live events. |
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		| 
 
 <a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
@@ -50,6 +55,11 @@
 | **[Adobe Acrobat Reader](https://liteapks.com/adobe-acrobat-reader-2.html)** | PDF viewer mod that usually unlocks premium tools like editing and merging files. |
 | **[Aloha Browser](https://liteapks.com/aloha-browser.html)** | A private browser with a built-in VPN, ad-blocker, and download manager. |
 | **[Subwoofer Bass](https://liteapks.com/subwoofer-bass.html)** | An audio enhancement app designed to boost low frequencies and bass quality. |
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		| 
 
 <a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
