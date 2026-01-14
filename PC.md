@@ -20,6 +20,11 @@
 |   **[HiPDF](https://www.hipdf.com/)** |   Comprehensive online PDF editor and converter. |
 |   **[Air Console](https://www.airconsole.com/)** |   Cross-platform co-operative gaming using smartphones as controllers. |
 |   **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** |   A curated web dashboard for quick access to various AI tools and utilities. |
+|	**[Streamex](https://streamex.net/)**	|	Discover and stream your favorite movies, TV shows, and anime series in high quality. StreameX offers a vast collection of entertainment content for free.	|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		| 
 
 <a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
@@ -34,6 +39,11 @@
 |  **[LocalSend](https://localsend.org/download)** |  An open-source tool for sharing files over a local network without internet. |
 |  **[uTorrent](https://www.utorrent.com/desktop/#comparison-panels)** |  A lightweight BitTorrent client used to download large files via P2P. |
 |  **[Aloha Browser](https://alohabrowser.app/download.html)** |  A privacy-focused browser featuring a built-in VPN and ad-blocker. |
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		|
+|	**[]()**	|		| 
 
 <a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
