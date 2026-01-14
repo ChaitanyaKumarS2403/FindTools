@@ -4,7 +4,7 @@
 [MODs](#mods)
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
 
 ## Official Applications
@@ -35,7 +35,7 @@
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
 
 ## MODs
@@ -52,5 +52,5 @@
 | **[Subwoofer Bass](https://liteapks.com/subwoofer-bass.html)** | An audio enhancement app designed to boost low frequencies and bass quality. |
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
