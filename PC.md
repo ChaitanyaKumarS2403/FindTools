@@ -4,7 +4,7 @@
 [EXE](#exe)
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
 
 ## Web Applications
@@ -22,7 +22,7 @@
 |   **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** |   A curated web dashboard for quick access to various AI tools and utilities. |
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
 
 ## EXE
@@ -36,5 +36,5 @@
 |  **[Aloha Browser](https://alohabrowser.app/download.html)** |  A privacy-focused browser featuring a built-in VPN and ad-blocker. |
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/imgHost/blob/main/general/GoBack_button.png" height="45">
+    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
 </a>
