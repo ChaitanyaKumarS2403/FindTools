@@ -33,8 +33,8 @@
 | **[BlinkIt](https://play.google.com/store/apps/details?id=com.grofers.customerapp)** | A quick-commerce app delivering groceries and daily needs in minutes. |
 | **[BookMyShow](https://play.google.com/store/apps/details?id=com.bt.bms)** | A platform for booking tickets for movies, concerts, sports, and live events. |
 | **[Swiggy](https://play.google.com/store/apps/details?id=in.swiggy.android)** | A food delivery and grocery platform offering restaurant orders and Instamart services. |
-|	**[]()**	|		|
-|	**[]()**	|		|
+|	**[MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en_IN&pli=1)**	|	MacroDroid is the easiest way to automate tasks on your Android smartphone or tablet. Via the straightforward user interface MacroDroid makes it possible to build fully automated tasks in just a few taps.	|
+|	**[TheLifeCalendar](https://www.thelifecalendar.com/)**	|	Visualize your life progress or year at a glance. Updated automatically on your lock screen.	|
 |	**[]()**	|		|
 |	**[]()**	|		|
 |	**[]()**	|		| 
