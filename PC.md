@@ -1,7 +1,7 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/270/270831.png" height="30"> PC / Desktop
-[Web Applications](#web-applications)
+- [Web Applications](#web-applications)
 
-[EXE](#exe)
+- [EXE](#exe)
 
 <a href="./README.md">
     <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/misc/GoBack_button.png" height="45">
