@@ -14,20 +14,21 @@
 | 1 | **[Air Console](https://www.airconsole.com/)** | Cross-platform co-operative gaming using smartphones as controllers. |
 | 2 | **[Bruno-Simon (Game)](https://bruno-simon.com/)** | An interactive 3D portfolio game where you drive a car through a virtual world. |
 | 3 | **[Calligraphr](https://www.calligraphr.com/en/)** | Transform your handwriting into a functional custom font. |
-| 4 | **[Excali Draw](https://excalidraw.com/)** | Virtual whiteboard for hand-drawn diagrams and flow charts. |
-| 5 | **[Exercism](https://exercism.org/)** | Practice and learn 70+ programming languages for free. |
-| 6 | **[FilePizza](https://file.pizza/)** | Peer-to-peer online file sharing in your browser. |
-| 7 | **[HiPDF](https://www.hipdf.com/)** | Comprehensive online PDF editor and converter. |
-| 8 | **[I Fix It](https://www.ifixit.com/)** | Detailed repair guides for almost any electronic or device. |
-| 9 | **[Messenger-Abeto (Game)](https://messenger.abeto.co/)** | A retro-style interactive game played through a simulated messenger interface. |
-| 10 | **[Napkin](https://www.napkin.ai/)** | Automatically generate business visuals and diagrams from text. |
-| 11 | **[PixelMotion.Art](https://www.pixelmotion.art/home)** | An AI-powered tool for generating and animating pixel art. |
-| 12 | **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** | A Web Media Player developed by me for primarily tab sharing along with audio while on meet/call - supports multi-audio and captions. |
-| 13 | **[Streamex](https://streamex.net/)** | Discover and stream movies, TV shows, and anime in high quality. |
-| 14 | **[Summer-Afternoon (Game)](https://summer-afternoon.vlucendo.com/)** | A relaxing, atmospheric browser game about exploring a nostalgic summer setting. |
-| 15 | **[Text to ASCII Generator](https://patorjk.com/software/taag/#p=display&f=ANSI+Compact&t=&x=none&v=4&h=4&w=80&we=false)** | Convert your text into ASCII Art with various styles and formats. |
-| 16 | **[Tmovie.tv](https://tmovie.tv/)** | A streaming platform for watching movies and trending video content. |
-| 17 | **[ToolFK](https://www.toolfk.com/)** | A massive collection of online format conversion tools. |
+| 4 | **[Dverso Laundry](https://tools.dverso.io/bgremove/)** |  |
+| 5 | **[Excali Draw](https://excalidraw.com/)** | Virtual whiteboard for hand-drawn diagrams and flow charts. |
+| 6 | **[Exercism](https://exercism.org/)** | Practice and learn 70+ programming languages for free. |
+| 7 | **[FilePizza](https://file.pizza/)** | Peer-to-peer online file sharing in your browser. |
+| 8 | **[HiPDF](https://www.hipdf.com/)** | Comprehensive online PDF editor and converter. |
+| 9 | **[I Fix It](https://www.ifixit.com/)** | Detailed repair guides for almost any electronic or device. |
+| 10 | **[Messenger-Abeto (Game)](https://messenger.abeto.co/)** | A retro-style interactive game played through a simulated messenger interface. |
+| 11 | **[Napkin](https://www.napkin.ai/)** | Automatically generate business visuals and diagrams from text. |
+| 12 | **[PixelMotion.Art](https://www.pixelmotion.art/home)** | An AI-powered tool for generating and animating pixel art. |
+| 13 | **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** | A Web Media Player developed by me for primarily tab sharing along with audio while on meet/call - supports multi-audio and captions. |
+| 14 | **[Streamex](https://streamex.net/)** | Discover and stream movies, TV shows, and anime in high quality. |
+| 15 | **[Summer-Afternoon (Game)](https://summer-afternoon.vlucendo.com/)** | A relaxing, atmospheric browser game about exploring a nostalgic summer setting. |
+| 16 | **[Text to ASCII Generator](https://patorjk.com/software/taag/#p=display&f=ANSI+Compact&t=&x=none&v=4&h=4&w=80&we=false)** | Convert your text into ASCII Art with various styles and formats. |
+| 17 | **[Tmovie.tv](https://tmovie.tv/)** | A streaming platform for watching movies and trending video content. |
+| 18 | **[ToolFK](https://www.toolfk.com/)** | A massive collection of online format conversion tools. |
 |  | **[](URL)** |  |
 
 <a href="./README.md">
