@@ -4,7 +4,7 @@
 - [EXE](#exe)
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## Web Applications
@@ -23,7 +23,7 @@
 | 10 | **[Messenger-Abeto (Game)](https://messenger.abeto.co/)** | A retro-style interactive game played through a simulated messenger interface. |
 | 11 | **[Napkin](https://www.napkin.ai/)** | Automatically generate business visuals and diagrams from text. |
 | 12 | **[PixelMotion.Art](https://www.pixelmotion.art/home)** | An AI-powered tool for generating and animating pixel art. |
-| 13 | **[PopCorn](https://chaitanyakumars2403.github.io/PopCorn/)** | A Web Media Player developed by me for primarily tab sharing along with audio while on meet/call - supports multi-audio and captions. |
+| 13 | **[PopCorn](https://chaitanyakumar-ReDSeC.github.io/PopCorn/)** | A Web Media Player developed by me for primarily tab sharing along with audio while on meet/call - supports multi-audio and captions. |
 | 14 | **[Streamex](https://streamex.net/)** | Discover and stream movies, TV shows, and anime in high quality. |
 | 15 | **[Summer-Afternoon (Game)](https://summer-afternoon.vlucendo.com/)** | A relaxing, atmospheric browser game about exploring a nostalgic summer setting. |
 | 16 | **[Text to ASCII Generator](https://patorjk.com/software/taag/#p=display&f=ANSI+Compact&t=&x=none&v=4&h=4&w=80&we=false)** | Convert your text into ASCII Art with various styles and formats. |
@@ -32,7 +32,7 @@
 |  | **[](URL)** |  |
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## EXE
@@ -44,10 +44,10 @@
 | 3 | **[Notepad++](https://notepad-plus-plus.org/downloads/)** | A powerful, open-source text and source code editor for Windows. |
 | 4 | **[RustDesk](https://rustdesk.com/)** | An Open Source Remote Desktop Application for secure remote control. |
 | 5 | **[uTorrent](https://www.utorrent.com/desktop/#comparison-panels)** | A lightweight BitTorrent client used to download large files via P2P. |
-| 6 | **[yt-dlp-toolkit](https://github.com/ChaitanyaKumarS2403/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe)** | A CLI-wrapper for yt-dlp to easily download videos and audio from the web - developed by me. |
+| 6 | **[yt-dlp-toolkit](https://github.com/chaitanyakumar-ReDSeC/yt-dlp-toolkit/releases/download/v1.0.0.0/yt-dlp-toolkit.exe)** | A CLI-wrapper for yt-dlp to easily download videos and audio from the web - developed by me. |
 |  | **[](URL)** |  |
 
 
 <a href="./README.md">
-    <img src="https://github.com/ChaitanyaKumarS2403/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
 </a>
