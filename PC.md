@@ -4,7 +4,7 @@
 - [EXE](#exe)
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## Web Applications
@@ -32,7 +32,7 @@
 |  | **[](URL)** |  |
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## EXE
@@ -49,5 +49,5 @@
 
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>

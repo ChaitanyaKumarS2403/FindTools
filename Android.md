@@ -4,7 +4,7 @@
 - [MODs](#mods)
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## Official Applications
@@ -39,7 +39,7 @@
 |  | **[](URL)** |  |
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>
 
 ## MODs
@@ -58,5 +58,5 @@
 |  | **[](URL)** |  |
 
 <a href="./README.md">
-    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/blob/main/projects_repo/Misc/Back.png" height="45">
+    <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/projects_repo/Misc/Back.png" height="45">
 </a>
